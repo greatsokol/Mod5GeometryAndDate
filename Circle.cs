@@ -1,6 +1,4 @@
-﻿using System.Drawing;
-
-namespace Geometry
+﻿namespace Geometry
 {
     class Circle
     {
